@@ -1,0 +1,15 @@
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration uc4\bin\Debug\net6.0\day19 user registration uc4.exe
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration uc4\bin\Debug\net6.0\day19 user registration uc4.deps.json
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration uc4\bin\Debug\net6.0\day19 user registration uc4.runtimeconfig.json
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration uc4\bin\Debug\net6.0\day19 user registration uc4.dll
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration uc4\bin\Debug\net6.0\day19 user registration uc4.pdb
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration uc4\obj\Debug\net6.0\day19 user registration uc4.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration uc4\obj\Debug\net6.0\day19 user registration uc4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration uc4\obj\Debug\net6.0\day19 user registration uc4.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration uc4\obj\Debug\net6.0\day19 user registration uc4.AssemblyInfo.cs
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration uc4\obj\Debug\net6.0\day19 user registration uc4.csproj.CoreCompileInputs.cache
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration uc4\obj\Debug\net6.0\day19 user registration uc4.dll
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration uc4\obj\Debug\net6.0\refint\day19 user registration uc4.dll
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration uc4\obj\Debug\net6.0\day19 user registration uc4.pdb
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration uc4\obj\Debug\net6.0\day19 user registration uc4.genruntimeconfig.cache
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration uc4\obj\Debug\net6.0\ref\day19 user registration uc4.dll

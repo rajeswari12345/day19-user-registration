@@ -1,0 +1,5 @@
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration\obj\Debug\net6.0\day19 user registration.csproj.AssemblyReference.cache
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration\obj\Debug\net6.0\day19 user registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration\obj\Debug\net6.0\day19 user registration.AssemblyInfoInputs.cache
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration\obj\Debug\net6.0\day19 user registration.AssemblyInfo.cs
+C:\Users\mani1\source\repos\day19 user registration\day19 user registration\obj\Debug\net6.0\day19 user registration.csproj.CoreCompileInputs.cache
